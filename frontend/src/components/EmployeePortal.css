@@ -1,0 +1,29 @@
+.employee-portal {
+    text-align: center;
+  }
+  
+  .assigned-laptop {
+    background: #f1f1f1;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  
+  .request-form,
+  .issue-form {
+    margin-bottom: 20px;
+  }
+  
+  .request-form input,
+  .issue-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .issue-form select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  

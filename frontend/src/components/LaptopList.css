@@ -1,0 +1,19 @@
+.laptop-list {
+    text-align: center;
+  }
+  
+  .laptop-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .laptop-list th,
+  .laptop-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .laptop-list th {
+    background: #f1f1f1;
+  }
+  
